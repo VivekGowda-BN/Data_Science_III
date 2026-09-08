@@ -16,14 +16,14 @@ The purpose of this repository is to execute laboratory assignments, understand 
 
 # Software and Libraries
 The laboratory exercises use Python and commonly used Data Science libraries:
-Python 3
-Jupyter Notebook
-JupyterLab
-NumPy
-Pandas
-Matplotlib
-Seaborn
-SciPy
-Scikit-learn
+Python 3  
+Jupyter Notebook  
+JupyterLab  
+NumPy  
+Pandas  
+Matplotlib  
+Seaborn  
+SciPy  
+Scikit-learn  
 
 ..............................................................................................................................................................................................................................................
